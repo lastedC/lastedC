@@ -6,8 +6,8 @@ Programmer and Graphics Designer
 
 I started my journey with graphics design in order to express myself. I was inspired by my father and his works and decided to learn. Eventually I discovered Discord; a free platform for communication. As I started using it more, I realised that most bots were very generalised and not exactly what I was wanted. I decided I would try and create my own bots and than took me down the path of programming.
 
-* 🌍  I'm based in Leicester, United Kingdom
-* 🧠  I'm learning Python & JavaScript
+* 🌍  I'm based in Luton, United Kingdom
+* 🧠  I'm learning Java & JavaScript
 
 ### Skills  
 
