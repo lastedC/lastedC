@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m lasted, an aspiring programmer based in Luton, UK, on a journey into the dynamic world of software engineering. I’m passionate about designing and building reliable, maintainable, and efficient applications.<br><br>My learning journey spans everything from core programming concepts to modern frameworks and tools that streamline development. I enjoy tackling problems, breaking them down into manageable pieces, and turning ideas into real, working solutions.<br><br>Whether it’s collaborating on open-source projects or exploring new technologies, I’m always looking to sharpen my skills and contribute to impactful software.**
+Hi there! I’m lasted, an aspiring programmer based in Luton, UK, on a journey into the dynamic world of software engineering. I’m passionate about designing and building reliable, maintainable, and efficient applications.<br><br>My learning journey spans everything from core programming concepts to modern frameworks and tools that streamline development. I enjoy tackling problems, breaking them down into manageable pieces, and turning ideas into real, working solutions.<br><br>Whether it’s collaborating on open-source projects or exploring new technologies, I’m always looking to sharpen my skills and contribute to impactful software.
 
 
 ## 🌐 Socials:
