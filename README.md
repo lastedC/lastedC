@@ -13,5 +13,7 @@
   * Web-based kanban board application inspired by Trello, designed to help teams manage tasks and projects efficiently.
 * ⚙️ [**NeoTech Reforged**](https://github.com/lastedC/neotech)
   * Minecraft mod that aims to bring factories to life. Heavily inspired by the game [Satisfactory](https://www.satisfactorygame.com/).
+* 📄 [**Talyn**](https://github.com/lastedC/Talyn)
+  * AI powered resume analyser that aims to help people secure more interviews.
 * 💵 [**SavvyDash**](https://github.com/lastedC/savvydash) $\textsf{\color{orange} (coming soon)}$
   * Gameified financial dashboard to make managing subscriptions easier.
